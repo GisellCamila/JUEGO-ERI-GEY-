@@ -372,7 +372,7 @@ function numeroAleatorio() {
 const buttonY = document.getElementById('btn-si')
 buttonY.addEventListener('click', () => {
     const paragraph = document.querySelector('p')
-    paragraph.innerText = 'Felicitaciones'
+    paragraph.innerText = 'Lo sabia Felicitaciones potra <3'
 })
 
 const buttonN = document.getElementById('btn-no')
